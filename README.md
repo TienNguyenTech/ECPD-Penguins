@@ -20,13 +20,13 @@ In 2024, we developed an interactive website to highlight the pressing issue of 
 Here are some visuals from our project:
 
 ![Antarctic Ice Melt](images/antar.jpg)
+![ECPD Art - Antartica and Penguins](images/ecpd-art-3.jpg)
 ![Climate Change Awareness](images/story1.png)
 ![Protect Our Planet](images/story2.png)
-![ECPD Art - Antartica and Penguins](images/ecpd-art-3.jpg)
 ![Hourglass Project](images/hour-glass-project.webp)
 ![Website](images/web-art.png)
 ![Poster 1](images/poster1.png)
-![Bye, bro!](images/ecpd-logo-2.png)
+![Bye, bro!](images/ecpd-logo.jpg)
 
 ## 🚀 Get Involved
 If you're interested in climate awareness initiatives or want to collaborate, feel free to connect!
