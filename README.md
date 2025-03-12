@@ -22,13 +22,10 @@ Here are some visuals from our project:
 ![Antarctic Ice Melt](images/antar.jpg)
 ![Climate Change Awareness](images/story1.png)
 ![Protect Our Planet](images/story2.png)
-![ECPD Art - Antartica and Water Raising](images/ecpd-art-2.jpg)
-![ECPD Art - Antartica and Penguins](images/ecpd-art.jpg)(images/ecpd-art-3.jpg)
-![ECPD Art - Antartica and Water Raising](images/ecpd-art-2.jpg)
+![ECPD Art - Antartica and Penguins](images/ecpd-art-3.jpg)
 ![Hourglass Project](images/hour-glass-project.webp)
 ![Website](images/web-art.png)
 ![Poster 1](images/poster1.png)
-![Poster 2](images/poster2.png)
 ![Bye, bro!](images/ecpd-logo-2.png)
 
 ## 🚀 Get Involved
